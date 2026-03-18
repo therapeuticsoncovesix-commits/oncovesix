@@ -138,7 +138,7 @@ const Index = () => {
           >
             <p className="text-2xl md:text-3xl lg:text-4xl font-medium leading-relaxed text-foreground/90">
               Most cancer therapeutics struggle to reach tumors efficiently. 
-              <span className="text-gradient"> We're building a biological GPS</span>—leveraging 
+              <span className="text-gradient"> We're building a biological GPS</span>, leveraging 
               bacteria that naturally home to tumors to deliver concentrated 
               therapeutic payloads exactly where they're needed.
             </p>
