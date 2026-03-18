@@ -190,7 +190,7 @@ const Index = () => {
             whileTap={{ scale: 0.98 }}
             className="inline-block text-xl md:text-2xl text-foreground hover:text-primary transition-colors duration-300 border-b-2 border-primary/30 hover:border-primary pb-1"
           >
-            info@oncovesix.com
+            therapeuticsoncovesix@gmail.com
           </motion.a>
         </motion.div>
       </section>
